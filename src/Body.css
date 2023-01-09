@@ -1,0 +1,32 @@
+.obj{
+    margin-left:100px;
+    margin-top:20px;
+    margin-bottom:20px;
+    height:27rem;
+    width:18rem;
+}
+.text{
+    background-image: linear-gradient( 109.6deg,  rgba(255,179,189,1) 1.8%, rgba(254,248,154,1) 50.6%, rgba(161,224,186,1) 100.3% );
+    margin-bottom: 0px;
+}
+.obj{
+    background-color: white;
+}
+.navbar{
+    background-image: linear-gradient( 64.3deg,  rgba(254,122,152,0.81) 17.7%, rgba(255,206,134,1) 64.7%, rgba(172,253,163,0.64) 112.1% );
+
+}
+.row{
+    background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
+}
+
+.footer{
+    background-image: radial-gradient( circle 590px at 8.2% 13.8%,  rgba(18,35,60,1) 0%, #bbb 90% );
+}
+.footc1{
+    color:white;
+  
+}
+.socialicon{
+    margin:20px
+}
